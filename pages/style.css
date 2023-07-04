@@ -1,0 +1,28 @@
+css
+.container {
+  width: 50%;
+  margin: auto;
+}
+
+.form-group {
+  margin-bottom: 10px;
+}
+
+label {
+  display: inline-block;
+  width: 150px;
+}
+
+input[type="number"] {
+  width: 50px;
+}
+
+button {
+  margin-top: 10px;
+}
+
+#result {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 24px;
+}
